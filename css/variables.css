@@ -1,0 +1,16 @@
+/* Use this file to store your useful variables */
+/* This could be colors, fonts, or padding sizes! */
+
+:root {
+  --color-primary: #000000;
+  --color-secondary: #1f1f1f;
+  --color-background: #ffffff;
+
+  --font-size-heading: 24px;
+  --font-size-subheading: 18px;
+  --font-size-body: 16px;
+
+  --spacing-small: 8px;
+  --spacing-medium: 16px;
+  --spacing-large: 24px;
+}
